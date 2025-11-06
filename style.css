@@ -31,3 +31,32 @@ main {
   height: auto;
   display: block;
 }
+
+.text {
+  text-align: center;
+  padding: 1rem 1rem;
+  background: #FFFDEA;
+}
+
+.title {
+  font-size: 1.5rem;
+  letter-spacing: 0.5em;
+  text-transform: uppercase;
+  color: #00A6FF;
+  margin-bottom: 1rem;
+}
+
+.quote {
+  font-style: italic;
+  font-size: 1.5rem;
+  text-transform: lowercase;
+  line-height: 1;
+  margin-bottom: 1rem;
+  color: #202020;
+}
+
+.author {
+  font-weight: bold;
+  font-size: 1rem;
+  color: #F6C117;
+}
