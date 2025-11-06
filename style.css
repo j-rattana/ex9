@@ -1,7 +1,7 @@
+/*to save time, I used the inspect tool to edit*/
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
 }
 
 html, body {
@@ -34,13 +34,13 @@ main {
 
 .text {
   text-align: center;
-  padding: 1rem 1rem;
+  padding: 3rem 2rem;
   background: #FFFDEA;
 }
 
 .title {
-  font-size: 1.5rem;
-  letter-spacing: 0.5em;
+  font-size: 1.8rem;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
   color: #00A6FF;
   margin-bottom: 1rem;
@@ -49,8 +49,7 @@ main {
 .quote {
   font-style: italic;
   font-size: 1.5rem;
-  text-transform: lowercase;
-  line-height: 1;
+  line-height: 1.25;
   margin-bottom: 1rem;
   color: #202020;
 }
