@@ -9,11 +9,10 @@ html, body {
   font-family: "Trebuchet MS", sans-serif;
   background: #64B6F7;
   font-size: 16px;
-  color: #111;
+  color: #1A4D80;
 }
 
 main {
-  min-height: 100%;
   padding: 1rem;
 }
 
